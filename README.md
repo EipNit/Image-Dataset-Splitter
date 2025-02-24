@@ -88,10 +88,6 @@ project-directory/
 ## Contributing
 
 Feel free to open issues or submit pull requests with improvements or suggestions.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
 Make sure to replace `<repository_url>` and `<repository_directory>` with the actual URL and directory name of your repository. Additionally, ensure you include the appropriate `LICENSE` file if your project has a specific license.
